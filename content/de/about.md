@@ -3,6 +3,8 @@ title: "Über mich"
 icon: "user"
 ---
 
+{{< figure src="/img/roland_bachmann.jpg" alt="Roland Bachmann" class="float-right ml-6 mb-6 rounded-xl w-48 shadow-md" >}}
+
 Ich bin **Roland Bachmann**, leidenschaftlicher **Senior Agile Delivery Lead** und strategischer Partner an der Schnittstelle zwischen Software-Engineering und Geschäftswachstum. Mein Fokus liegt darauf, unstrukturierte Arbeitsweisen in hocheffiziente, datengetriebene und vorhersagbare Delivery-Prozesse zu verwandeln.
 
 In meiner mehrjährigen Laufbahn habe ich gelernt, dass herausragende Softwareentwicklung nicht nur exzellenten Code erfordert, sondern vor allem ein klares Verständnis für den Geschäftswert und ein Umfeld, das Teams befähigt, Höchstleistungen zu erbringen.

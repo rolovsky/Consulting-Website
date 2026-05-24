@@ -8,11 +8,15 @@ contentDir = "content/de"
 weight = 1
 title = "Roland Bachmann | Strategische Beratung"
 
-[languages.en]
-label = "English"
-contentDir = "content/en"
-weight = 2
-title = "Roland Bachmann | Strategic Consulting"
+[languages.de.params.author]
+name = "Roland Bachmann"
+image = "img/roland_bachmann.jpg"
+headline = "Senior Agile Delivery Lead"
+bio = "Ich transformiere Gruppen in High-Performing Teams und sorge für stabile, vorhersagbare Delivery-Prozesse mit messbarem Geschäftswert."
+links = [
+  { linkedin = "https://www.linkedin.com/in/rolandbachmann" },
+  { email = "mailto:me@rolandbachmann.com" }
+]
 
 [languages.de.menu]
 [[languages.de.menu.main]]
@@ -29,6 +33,22 @@ weight = 20
 name = "Kontakt"
 url = "/de/contact/"
 weight = 30
+
+[languages.en]
+label = "English"
+contentDir = "content/en"
+weight = 2
+title = "Roland Bachmann | Strategic Consulting"
+
+[languages.en.params.author]
+name = "Roland Bachmann"
+image = "img/roland_bachmann.jpg"
+headline = "Senior Agile Delivery Lead"
+bio = "Transforming diverse groups into high-performing teams and ensuring stable, predictable delivery processes with measurable business value."
+links = [
+  { linkedin = "https://www.linkedin.com/in/rolandbachmann" },
+  { email = "mailto:me@rolandbachmann.com" }
+]
 
 [languages.en.menu]
 [[languages.en.menu.main]]
