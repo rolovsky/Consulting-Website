@@ -1,0 +1,70 @@
+baseURL = "https://consulting.rolandbachmann.com/"
+theme = "congo"
+defaultContentLanguage = "de"
+
+[languages.de]
+label = "Deutsch"
+contentDir = "content/de"
+weight = 1
+title = "Roland Bachmann | Strategische Beratung"
+
+[languages.en]
+label = "English"
+contentDir = "content/en"
+weight = 2
+title = "Roland Bachmann | Strategic Consulting"
+
+[languages.de.menu]
+[[languages.de.menu.main]]
+name = "Expertise"
+url = "/de/services/"
+weight = 10
+
+[[languages.de.menu.main]]
+name = "Über mich"
+url = "/de/about/"
+weight = 20
+
+[[languages.de.menu.main]]
+name = "Kontakt"
+url = "/de/contact/"
+weight = 30
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "Expertise"
+url = "/en/services/"
+weight = 10
+
+[[languages.en.menu.main]]
+name = "About"
+url = "/en/about/"
+weight = 20
+
+[[languages.en.menu.main]]
+name = "Contact"
+url = "/en/contact/"
+weight = 30
+
+[params]
+colorScheme = "blowfish"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+description = "Senior Agile Delivery Lead | Product Delivery & Digital Strategy"
+
+[params.header]
+layout = "basic"
+showTitle = true
+logo = "img/logo.png"
+
+[params.footer]
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[params.homepage]
+layout = "profile"
+showRecent = false

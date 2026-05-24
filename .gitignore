@@ -1,0 +1,14 @@
+# Hugo default output directory
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Local binary directory
+/bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Exclude PDF files from version control
+*.pdf
