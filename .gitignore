@@ -12,3 +12,4 @@ Thumbs.db
 
 # Exclude PDF files from version control
 *.pdf
+!static/roland_bachmann_cv.pdf

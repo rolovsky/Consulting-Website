@@ -13,6 +13,7 @@ Ob für ein kurzfristiges Audit Ihrer aktuellen Prozesse, ein langfristiges Tran
 
 *   **E-Mail**: [me@rolandbachmann.com](mailto:me@rolandbachmann.com)
 *   **LinkedIn**: [linkedin.com/in/rolandbachmann](https://www.linkedin.com/in/rolandbachmann)
+*   **Lebenslauf**: [Lebenslauf herunterladen (PDF)](/roland_bachmann_cv.pdf)
 
 ---
 

@@ -13,6 +13,7 @@ Whether you need a short-term process audit, a comprehensive agile transformatio
 
 *   **Email**: [me@rolandbachmann.com](mailto:me@rolandbachmann.com)
 *   **LinkedIn**: [linkedin.com/in/rolandbachmann](https://www.linkedin.com/in/rolandbachmann)
+*   **Curriculum Vitae**: [Download CV (PDF)](/roland_bachmann_cv.pdf)
 
 ---
 
