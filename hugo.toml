@@ -21,17 +21,17 @@ links = [
 [languages.de.menu]
 [[languages.de.menu.main]]
 name = "Expertise"
-url = "/de/services/"
+url = "/services/"
 weight = 10
 
 [[languages.de.menu.main]]
 name = "Über mich"
-url = "/de/about/"
+url = "/about/"
 weight = 20
 
 [[languages.de.menu.main]]
 name = "Kontakt"
-url = "/de/contact/"
+url = "/contact/"
 weight = 30
 
 [languages.en]
