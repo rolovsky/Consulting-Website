@@ -88,3 +88,7 @@ showScrollToTop = true
 [params.homepage]
 layout = "profile"
 showRecent = false
+
+[params.article]
+showDate = false
+showReadingTime = false
