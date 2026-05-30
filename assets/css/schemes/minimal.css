@@ -1,0 +1,84 @@
+/* Minimal scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Light-mode neutral grays (very light gray background, dark charcoal text) */
+  --color-neutral-50: 250, 250, 250;
+  --color-neutral-100: 244, 244, 245;
+  --color-neutral-200: 228, 228, 231;
+  --color-neutral-300: 212, 212, 216;
+  --color-neutral-400: 161, 161, 170;
+  --color-neutral-500: 113, 113, 122;
+  --color-neutral-600: 82, 82, 91;
+  --color-neutral-700: 63, 63, 70;
+  --color-neutral-800: 39, 39, 42;
+  --color-neutral-900: 24, 24, 27;
+  --color-neutral-950: 9, 9, 11;
+
+  /* Primary colors - elegant dark graphite/slate gray (Tailwind slate-800 to slate-900) */
+  --color-primary-50: 248, 250, 252;
+  --color-primary-100: 241, 245, 249;
+  --color-primary-200: 226, 232, 240;
+  --color-primary-300: 203, 213, 225;
+  --color-primary-400: 148, 163, 184;
+  --color-primary-500: 100, 116, 139;
+  --color-primary-600: 71, 85, 105;
+  --color-primary-700: 51, 65, 85;
+  --color-primary-800: 30, 41, 59;
+  --color-primary-900: 15, 23, 42;
+  --color-primary-950: 2, 6, 23;
+
+  /* Secondary colors - same as neutral or slightly warmer */
+  --color-secondary-50: 250, 250, 250;
+  --color-secondary-100: 244, 244, 245;
+  --color-secondary-200: 228, 228, 231;
+  --color-secondary-300: 212, 212, 216;
+  --color-secondary-400: 161, 161, 170;
+  --color-secondary-500: 113, 113, 122;
+  --color-secondary-600: 82, 82, 91;
+  --color-secondary-700: 63, 63, 70;
+  --color-secondary-800: 39, 39, 42;
+  --color-secondary-900: 24, 24, 27;
+  --color-secondary-950: 9, 9, 11;
+}
+
+.dark {
+  /* Dark-mode background - very deep matte charcoal/almost black */
+  --color-neutral: 9, 9, 11;
+  --color-neutral-50: 24, 24, 27;
+  --color-neutral-100: 39, 39, 42;
+  --color-neutral-200: 63, 63, 70;
+  --color-neutral-300: 82, 82, 91;
+  --color-neutral-400: 113, 113, 122;
+  --color-neutral-500: 161, 161, 170;
+  --color-neutral-600: 212, 212, 216;
+  --color-neutral-700: 228, 228, 231;
+  --color-neutral-800: 244, 244, 245;
+  --color-neutral-900: 250, 250, 250;
+  --color-neutral-950: 255, 255, 255;
+
+  /* Primary colors in Dark-mode - slate/zinc highlights */
+  --color-primary-50: 2, 6, 23;
+  --color-primary-100: 15, 23, 42;
+  --color-primary-200: 30, 41, 59;
+  --color-primary-300: 51, 65, 85;
+  --color-primary-400: 71, 85, 105;
+  --color-primary-500: 100, 116, 139;
+  --color-primary-600: 148, 163, 184;
+  --color-primary-700: 203, 213, 225;
+  --color-primary-800: 226, 232, 240;
+  --color-primary-900: 241, 245, 249;
+  --color-primary-950: 248, 250, 252;
+
+  /* Secondary colors in Dark-mode */
+  --color-secondary-50: 2, 6, 23;
+  --color-secondary-100: 15, 23, 42;
+  --color-secondary-200: 30, 41, 59;
+  --color-secondary-300: 51, 65, 85;
+  --color-secondary-400: 71, 85, 105;
+  --color-secondary-500: 100, 116, 139;
+  --color-secondary-600: 148, 163, 184;
+  --color-secondary-700: 203, 213, 225;
+  --color-secondary-800: 226, 232, 240;
+  --color-secondary-900: 241, 245, 249;
+  --color-secondary-950: 248, 250, 252;
+}
